@@ -308,7 +308,7 @@
   "isTemplateApp": true,
   "isWebTier": false,
   "httpProxy": {
-    "useProxy": true,
+    "useProxy": false,
     "alwaysUseProxy": false,
     "url": "",
     "rules": []
